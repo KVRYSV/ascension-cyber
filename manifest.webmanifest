@@ -1,0 +1,23 @@
+{
+  "name": "ASCENSION — Training System",
+  "short_name": "ASCENSION",
+  "description": "A Solo-Leveling-style offline training System: adaptive program, daily quests, calorie + protein calculators, leveling and skill tree. Clear Gates, earn EXP, ascend the ranks. All data stays on your device.",
+  "lang": "en",
+  "dir": "ltr",
+  "id": "ascension",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#05060a",
+  "theme_color": "#05060a",
+  "categories": ["health", "fitness", "lifestyle"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
