@@ -1,6 +1,6 @@
 # ASCENSION//CYBER — v10.0.0 (web)
 
-Offline fitness RPG. Single-file PWA. Workouts are Gates, habits are quests, the body levels up.
+Themed version of my other app. Offline fitness RPG.  Workouts are Gates, habits are quests, the body levels up.
 All data stays on the device (localStorage). No account, no server.
 
 ## Install (iOS)
