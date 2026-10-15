@@ -5,7 +5,7 @@ All data stays on the device (localStorage). No account, no server.
 
 ## Install (iOS)
 
-1. Open the Pages URL in **Safari**.
+1. Open https://kvrysv.github.io/ascension-cyber/ in **Safari**.
 2. Share → **Add to Home Screen** → Add.
 3. Launch from the home screen icon. Runs full screen, no browser bar, works offline after first load.
 
