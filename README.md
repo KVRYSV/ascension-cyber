@@ -70,3 +70,23 @@ All data stays on the device (localStorage). No account, no server.
 - Sounds start after the first tap (browser autoplay rules).
 - iOS: the ring/silent switch mutes all sound.
 - iOS: home-screen app storage is separate from Safari. Use Settings → Export to back up.
+
+Copyright (c) 2026 KVRYSV. All rights reserved.
+
+This repository is public for viewing and for using the hosted app only.
+No permission is granted to copy, modify, distribute, sublicense, or create
+derivative works of the code, design, artwork, or icons without written
+permission from KVRYSV.
+
+Third-party components are not covered by this notice and keep their own
+licenses:
+
+- Fonts (embedded in index.html), SIL Open Font License 1.1:
+  JetBrains Mono - The JetBrains Mono Project Authors (licenses/OFL-JetBrainsMono.txt)
+  DSEG7 Classic  - keshikan (licenses/OFL-DSEG.txt)
+  Orbitron       - The Orbitron Project Authors
+  Rajdhani       - Indian Type Foundry
+  Share Tech Mono - Carrois Apostrophe
+  Full OFL text: https://openfontlicense.org
+- UI sound effects: third-party, used under their provider's terms.
+- hamr-audio.mp3: third-party audio, used under its owner's terms.
